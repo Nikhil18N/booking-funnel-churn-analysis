@@ -75,3 +75,17 @@ This project is licensed under the MIT License. See `LICENSE`.
 
 Open an issue or pull request on GitHub for questions, improvements, or
 requests for additional analyses.
+
+## Outputs Preview
+
+Funnel chart (stage drop-off):
+
+![Funnel Chart](docs/images/funnel_chart.png)
+
+Cohort retention heatmap:
+
+![Retention Heatmap](docs/images/retention_heatmap.png)
+
+Monthly conversion trend:
+
+![Monthly Trend](docs/images/monthly_trend.png)
